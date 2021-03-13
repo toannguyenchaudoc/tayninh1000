@@ -16,10 +16,10 @@
  */
 
 $db = array(
-    'hostname' => 'localhost',
-    'username' => 'root',
-    'password' => '',
-    'database' => 'store',
+    'hostname' => 'MYSQL5044.site4now.net',
+    'username' => 'a70f72_thangto',
+    'password' => 'tayninh0123',
+    'database' => 'db_a70f72_thangto',
 );
 
 
